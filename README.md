@@ -141,6 +141,7 @@ Below, a detailed instructions on how to set everything up is provided.
   ```
   https://github.com/[your-username]/python-for-data-science
   ```
+- Go to the repository settings and make sure that **Issues** are enabled. This will allow us to make feedback to your solutions directly.
 - Tell us your name and GitHub username.  
   All future homework solutions will be submitted the same way.
 
