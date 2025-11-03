@@ -9,15 +9,15 @@ Time: Monday 12:20
 Room: K4
 
 ## Plan
-| Date       | Topic                          | Homework Assignment | Homework Deadline[^1] | Lecturer |
-|------------|--------------------------------|---------------------|------------------|----------|
-| 29.09.2025 | introduction                   | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment1.ipynb)              | 15.10.2025           | Filip   |
-| 13.10.2025 | numpy                          | [TODO]             | 20.10.2025           | Filip   |
-| 27.10.2025 | pandas                         | [TODO]              | 03.11.2025           | Ondřej   |
-| 10.11.2025 | sql                            | [TODO]              | 17.11.2025           | Ondřej   |
-| 24.11.2025 | matplotlib                     | [TODO]              | 01.12.2025           | Ondřej   |
-| 08.12.2025 | scikit-learn                   | [TODO]              | 15.12.2025           | Filip   |
-| 05.01.2026 | Object-oriented programming    | [TODO]              | 12.01.2026           | Ondřej   |
+| Date       | Topic                          | Homework Assignment                                                                       | Homework Deadline[^1] | Lecturer |
+|------------|--------------------------------|-------------------------------------------------------------------------------------------|------------------|----------|
+| 29.09.2025 | introduction                   | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment1.ipynb) | 15.10.2025           | Filip   |
+| 13.10.2025 | numpy                          | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment2.ipynb) | 20.10.2025           | Filip   |
+| <span style="color:red;">~~27.10.2025~~</span> 03.11.2025 | pandas                         | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment3.ipynb) | <span style="color:red;">~~03.11.2025~~</span> 10.11.2025           | Ondřej   |
+| 10.11.2025 | sql                            | [TODO]                                                                                    | 17.11.2025           | Ondřej   |
+| 24.11.2025 | matplotlib                     | [TODO]                                                                                    | 01.12.2025           | Ondřej   |
+| 08.12.2025 | scikit-learn                   | [TODO]                                                                                    | 15.12.2025           | Filip   |
+| 05.01.2026 | Object-oriented programming    | [TODO]                                                                                    | 12.01.2026           | Ondřej   |
 
 [^1]: All homework deadlines are due at **23:59** on the specified date.
 
@@ -141,6 +141,7 @@ Below, a detailed instructions on how to set everything up is provided.
   ```
   https://github.com/[your-username]/python-for-data-science
   ```
+- Go to the repository settings and make sure that **Issues** are enabled. This will allow us to make feedback to your solutions directly.
 - Tell us your name and GitHub username.  
   All future homework solutions will be submitted the same way.
 

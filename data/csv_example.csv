@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Salary,JoiningDate,FullTime
+101,John Smith,Sales,28,50000,2019-03-15,Yes
+102,Jane Doe,Marketing,34,60000,2018-07-23,Yes
+103,Mike Johnson,IT,30,55000,2020-01-10,No
+104,Emily Davis,HR,26,48000,2021-06-12,Yes
+105,William Brown,IT,40,75000,2017-11-03,Yes
+106,Linda Wilson,Sales,32,52000,2019-08-19,No
+107,David Lee,Marketing,29,58000,2020-02-25,Yes
+108,Sarah Kim,HR,35,62000,2016-05-30,Yes
+109,James White,IT,31,54000,2019-09-01,No
+110,Patricia Taylor,Sales,27,50000,2021-01-20,Yes
