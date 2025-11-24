@@ -14,8 +14,8 @@ Room: K4
 | 29.09.2025 | introduction                   | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment1.ipynb) | 15.10.2025           | Filip   |
 | 13.10.2025 | numpy                          | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment2.ipynb) | 20.10.2025           | Filip   |
 | <span style="color:red;">~~27.10.2025~~</span> 03.11.2025 | pandas                         | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment3.ipynb) | <span style="color:red;">~~03.11.2025~~</span> 10.11.2025           | Ondřej   |
-| 10.11.2025 | sql                            | [TODO]                                                                                    | 17.11.2025           | Ondřej   |
-| 24.11.2025 | matplotlib                     | [TODO]                                                                                    | 01.12.2025           | Ondřej   |
+| 10.11.2025 | sql                            | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment4.ipynb) | 17.11.2025           | Ondřej   |
+| 24.11.2025 | matplotlib                     | [click](https://github.com/ondratybl/python-for-data-science/blob/main/assignment5.ipynb) | 01.12.2025           | Ondřej   |
 | 08.12.2025 | scikit-learn                   | [TODO]                                                                                    | 15.12.2025           | Filip   |
 | 05.01.2026 | Object-oriented programming    | [TODO]                                                                                    | 12.01.2026           | Ondřej   |
 
