@@ -154,3 +154,5 @@ You are ready to start working on the course!
 ### FAQ
 
 1) Problem: When creating virtual environment, Pycharm does not provide any python versions. Solution: Completely erase the project including the folder in PycharmProjects and create it from scratch. If does not help, install desired python version yourself.
+2) Problem: When syncing your fork with the course repository, you receive a conflict message and are prompted to create a pull request.
+Solution: This typically occurs because parts of the course repository were updated after you had already modified the same files in your fork. In PyCharm, go to Git –> GitHub –> Sync Fork. PyCharm will detect the conflicting scripts and prompt you to choose how to resolve them. Select “Accept Yours” to keep your version, or choose the course version if you prefer their updates.
